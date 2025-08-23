@@ -6,7 +6,7 @@ A passionate developer delving into JavaScript-based web and mobile applications
 - 🔭 Currently working on improving app functionality and UI/UX across multiple personal projects.
 - 🌱 Learning full-stack development best practices, geolocation services, push notifications, and more.
 - 💬 Feel free to ask me about JavaScript, mobile/web development, or project ideas.
-- 📫 Reach out: [your-email@example.com] (optional)
+- 📫 Reach out: **saurabh.kandari@gmail.com**
 
 ##  Featured Projects
 | Project | Description |
@@ -15,8 +15,8 @@ A passionate developer delving into JavaScript-based web and mobile applications
 | **ToDo-list** | A dynamic to-do list for task management |
 | **Cuperos-dating-app** | A fun, interactive dating app prototype in JS |
 | **LoginSystem** | Mobile login/signup system with AsyncStorage, geolocation, and push notifications |
-| **Letmeet** | (Project details to be added by you—for clarity) |
-| **map** | (Add a note about what this project does—for clarity) |
+| **Letmeet** | (Project details to be added) |
+| **map** | (Add a note about what this project does) |
 
 ##  Tech Stack
 - **Languages:** JavaScript, HTML, CSS  
@@ -24,10 +24,9 @@ A passionate developer delving into JavaScript-based web and mobile applications
 - **Web Development:** (List frameworks or libraries if applicable)  
 - **Version Control:** Git & GitHub
 
-*(Add personal “currently learning” tools and future interests if you'd like.)*
-
 ##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh123kandari&show_icons=true&theme=radical)
 
 ##  Connect with Me
-[LinkedIn](#) • [Twitter](#) • [Portfolio](#)
+- 📧 Email: [saurabh.kandari@gmail.com](mailto:saurabh.kandari@gmail.com)
+- [LinkedIn](#) • [Twitter](#) • [Portfolio](#)
