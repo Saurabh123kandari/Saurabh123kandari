@@ -1,4 +1,4 @@
-# Hi, I’m Saurabh Kumar! 👋
+# Hi, I’m Saurabh Kandari! 👋
 
 ##  About Me
 A passionate developer delving into JavaScript-based web and mobile applications. I enjoy solving real-world challenges with creative and user-centric solutions.
