@@ -35,6 +35,7 @@ A passionate developer delving into JavaScript-based web and mobile applications
 ##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh123kandari&show_icons=true&theme=radical)
 
-##  Connect with Me
+## 🌐 Connect with Me
 - 📧 Email: [saurabh.kandari@gmail.com](mailto:saurabh.kandari@gmail.com)
-- [LinkedIn](#) • [Twitter](#) • [Portfolio](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saurabh-kandari-862a68161) • 🐦 [Twitter](https://twitter.com/yourhandle) • 🌍 [Portfolio](https://saurabhkandari.dev)
+
