@@ -11,6 +11,9 @@ A passionate developer delving into JavaScript-based web and mobile applications
 ##  Featured Projects
 | Project | Description |
 |---------|-------------|
+| **ReviseRight** | A personalized e-learning and productivity platform that empowers learners to organize their study life efficiently. Includes progress tracking, scheduling, and offline support. |
+| **Padmai - School Management System** | A React Native TypeScript app with role-based authentication, payment tracking, and school calendar management. |
+| **NextSkill - Education Application** | A comprehensive React Native education app with courses, quizzes, gamified achievements, and offline support. |
 | **Corona-Dashboard** | Real-time COVID-19 tracking dashboard built with JavaScript |
 | **ToDo-list** | A dynamic to-do list for task management |
 | **Cuperos-dating-app** | A fun, interactive dating app prototype in JS |
@@ -19,10 +22,15 @@ A passionate developer delving into JavaScript-based web and mobile applications
 | **map** | (Add a note about what this project does) |
 
 ##  Tech Stack
-- **Languages:** JavaScript, HTML, CSS  
-- **Mobile tooling:** AsyncStorage, Geolocation API, Push Notifications  
-- **Web Development:** (List frameworks or libraries if applicable)  
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React Native, React Navigation, Context API, Express.js, Axios
+- **Backend & Services:** Firebase (Firestore, Authentication, Cloud Messaging), Node.js 
+- **Mobile tooling:** AsyncStorage, Geolocation API, Push Notifications
+- **Database & Storage:** SQLite, AsyncStorage 
+- **Web Development:** React Js
 - **Version Control:** Git & GitHub
+- **Core Expertise:** Authentication, Push Notifications, Offline Support, Geolocation, Calendar Integration, UI/UX Enhancements
+
 
 ##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh123kandari&show_icons=true&theme=radical)
@@ -30,4 +38,3 @@ A passionate developer delving into JavaScript-based web and mobile applications
 ##  Connect with Me
 - 📧 Email: [saurabh.kandari@gmail.com](mailto:saurabh.kandari@gmail.com)
 - [LinkedIn](#) • [Twitter](#) • [Portfolio](#)
-
