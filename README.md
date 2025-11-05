@@ -18,8 +18,8 @@ A passionate developer delving into JavaScript-based web and mobile applications
 | **ToDo-list** | A dynamic to-do list for task management |
 | **Cuperos-dating-app** | A fun, interactive dating app prototype in JS |
 | **LoginSystem** | Mobile login/signup system with AsyncStorage, geolocation, and push notifications |
-| **Letmeet** | (Project details to be added) |
-| **map** | (Add a note about what this project does) |
+| **Letmeet** | A modern dating and social connection app prototype built with React Native, featuring real-time chat, user profiles, and match discovery. |
+| **map** | Interactive geolocation map demo using React Native Maps. |
 
 ##  Tech Stack
 - **Languages:** JavaScript, HTML, CSS
